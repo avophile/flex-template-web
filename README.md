@@ -1,8 +1,8 @@
-# Sharetribe Flex Template for Web
+# Fork of Sharetribe Flex Template for Web
 
 [![CircleCI](https://circleci.com/gh/sharetribe/flex-template-web.svg?style=svg&circle-token=198451e83e5cecb0d662949260dbc3273ac44a67)](https://circleci.com/gh/sharetribe/flex-template-web)
 
-This is a template web application for a Sharetribe Flex marketplace ready to be extended and
+This is a fork of the Sharetribe Flex marketplace template web application for a ready to be extended and
 customized. It is based on an application bootstrapped with
 [create-react-app](https://github.com/facebookincubator/create-react-app) with some additions,
 namely server side rendering and a custom CSS setup.
