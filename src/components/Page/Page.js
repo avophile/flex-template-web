@@ -10,7 +10,7 @@ import { metaTagProps } from '../../util/seo';
 import { canonicalRoutePath } from '../../util/routes';
 import { CookieConsent } from '../../components';
 
-import facebookImage from '../../assets/saunatimeFacebook-1200x630.jpg';
+import facebookImage from '../../assets/thelongwayFacebook-1200x630.png';
 import twitterImage from '../../assets/saunatimeTwitter-600x314.jpg';
 import css from './Page.css';
 
